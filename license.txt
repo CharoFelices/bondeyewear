@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dark sunglasses
+* source:	https://sketchfab.com/3d-models/dark-sunglasses-69d530f7e6bd45b9b3d9f16dae627348
+* author:	assetfactory (https://sketchfab.com/assetfactory)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dark sunglasses" (https://sketchfab.com/3d-models/dark-sunglasses-69d530f7e6bd45b9b3d9f16dae627348) by assetfactory (https://sketchfab.com/assetfactory) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
